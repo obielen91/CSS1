@@ -1,34 +1,18 @@
-#rectangle {width: 300px;
-height: 550px;
-background-color: #808080;
+#rectangle {
+    width: 300px;
+    height: 550px;
+    background-color: #808080;
 }
 
-h1 {color: white;
-font-size: x-large;
-margin: 20px 30px 10px 15px;
+h1 {
+    color: white;
+    font-size: x-large;
+    margin: 20px 30px 10px 15px;
 }
 
-#square {
-    width: 100px;
-    height: 100px;
-    background-color: #fea500;
-    margin: 20px 30px 10px 25px;
-}
-
-#square1 {
-    width: 100px;
-    height: 100px;
-    background-color: #fea500;
-    margin: 20px 30px 10px 25px;
-}
-
-#square2 {
-    width: 100px;
-    height: 100px;
-    background-color: #fea500;
-    margin: 20px 30px 10px 25px;
-}
-
+#square,
+#square1,
+#square2,
 #square3 {
     width: 100px;
     height: 100px;
